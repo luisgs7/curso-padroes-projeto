@@ -1,10 +1,10 @@
-package br.com.cod3r.factory.apple;
+package br.com.cod3r.factory.apple.after;
 
 
-import br.com.cod3r.factory.apple.factory.IPhone11ProFactory;
-import br.com.cod3r.factory.apple.factory.IPhoneFactory;
-import br.com.cod3r.factory.apple.factory.IPhoneXFactory;
-import br.com.cod3r.factory.apple.model.IPhone;
+import br.com.cod3r.factory.apple.after.factory.IPhone11ProFactory;
+import br.com.cod3r.factory.apple.after.factory.IPhoneFactory;
+import br.com.cod3r.factory.apple.after.factory.IPhoneXFactory;
+import br.com.cod3r.factory.apple.after.model.IPhone;
 
 public class Client {
 	
