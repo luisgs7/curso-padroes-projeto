@@ -1,6 +1,6 @@
-package br.com.cod3r.factory.app.dbadapter.db;
+package br.com.cod3r.factory.app.dbadapter.after.db;
 
-public class PostgresDB implements DB {
+public class PostgresDB implements br.com.cod3r.factory.app.dbadapter.after.db.DB {
 
 	public void query(String sql) {
 		System.out.println("Querying " + sql + " in Postgres database");

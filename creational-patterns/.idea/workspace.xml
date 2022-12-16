@@ -37,26 +37,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/luis/projects/java/curso-padroes-projeto/creational-patterns/src/main/java/br/com/cod3r/factory/apple/simple"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/luis/projects/java/curso-padroes-projeto/creational-patterns/src/main/java/br/com/cod3r/factory/apple/simple&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java/br/com/cod3r/factory/apple/simple" />
       <recent name="$PROJECT_DIR$/src/main/java/br/com/cod3r/factory/apple/halfSimple" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="br.com.cod3r.factory.app.dbadapter" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.br.com.cod3r.factory.apple.simple.Client">
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.cod3r.factory.apple.after.Client" />
+  <component name="RunManager" selected="Application.br.com.cod3r.factory.app.dbadapter.after.Client">
+    <configuration name="br.com.cod3r.factory.app.dbadapter.after.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.cod3r.factory.app.dbadapter.after.Client" />
       <module name="CreationalPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.cod3r.factory.apple.after.*" />
+          <option name="PATTERN" value="br.com.cod3r.factory.app.dbadapter.after.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="br.com.cod3r.factory.app.dbadapter.before.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.cod3r.factory.app.dbadapter.before.Client" />
+      <module name="CreationalPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.cod3r.factory.app.dbadapter.before.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,10 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.br.com.cod3r.factory.app.dbadapter.after.Client" />
+        <item itemvalue="Application.br.com.cod3r.factory.app.dbadapter.before.Client" />
         <item itemvalue="Application.br.com.cod3r.factory.apple.simple.Client" />
         <item itemvalue="Application.br.com.cod3r.factory.apple.halfSimple.Client" />
         <item itemvalue="Application.br.com.cod3r.factory.apple.before.Client" />
-        <item itemvalue="Application.Client" />
       </list>
     </recent_temporary>
   </component>
